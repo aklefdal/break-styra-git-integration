@@ -42,3 +42,7 @@ Make it look like this:
 
 * Adjust package names
 * Commit, wait, and test the system again.
+
+## :boom: synced, but not looking good.
+![image](https://user-images.githubusercontent.com/404432/119728837-31727300-be74-11eb-9f55-e695c18169ed.png)
+
