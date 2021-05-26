@@ -5,3 +5,4 @@ default allow = false
 allow {
   input.groups[_] == "customer_success"
 }
+
