@@ -26,3 +26,19 @@ This is a repo used to demonstrate bugs in Styra DAS Git integration
 ## Delete folder1
 
 * Commit, wait, and test the system again.
+* Folder1 gets deleted, so this bug is now fixed
+
+## Restructure folder2
+
+Make it look like this:
+
+* root
+  * rego
+    * folder2
+      * subfolder1
+        * rules1.rego
+      * subfolder2
+        * rules2.rego  
+
+* Adjust package names
+* Commit, wait, and test the system again.
