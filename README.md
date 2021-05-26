@@ -81,4 +81,5 @@ Make it look like this:
 * Delete affected files in the UI
 * ![image](https://user-images.githubusercontent.com/404432/119734039-ab0d5f80-be7a-11eb-92c8-a18d2b51be5f.png)
 * Push, and wait
+* This works! :tada: Of course not a proper work-around for a production system.
 
