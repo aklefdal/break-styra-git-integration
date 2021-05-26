@@ -1,0 +1,18 @@
+discovery:
+  name: discovery
+  resource: /systems/f9a909e506c0431c994de862f1ed7578/discovery
+  service: styra
+labels:
+  system-id: f9a909e506c0431c994de862f1ed7578
+  system-type: custom
+services:
+- credentials:
+    bearer:
+      token: LeptSOkn0ZX-oJ-zDgCIs3n2uJ_WTTim3nUCfR0JnjABZEpRhabD3Ywzp4jhpcxWi_tewoy4eTCN9n2xhfvzD5LHyw
+  name: styra
+  url: https://dnv.svc.styra.com/v1
+- credentials:
+    bearer:
+      token: LeptSOkn0ZX-oJ-zDgCIs3n2uJ_WTTim3nUCfR0JnjABZEpRhabD3Ywzp4jhpcxWi_tewoy4eTCN9n2xhfvzD5LHyw
+  name: styra-bundles
+  url: https://dnv.svc.styra.com/v1/bundles
