@@ -46,3 +46,16 @@ Make it look like this:
 ## :boom: synced, but not looking good.
 ![image](https://user-images.githubusercontent.com/404432/119728837-31727300-be74-11eb-9f55-e695c18169ed.png)
 
+## Fix
+
+* Delete what looks bad
+![image](https://user-images.githubusercontent.com/404432/119729714-44397780-be75-11eb-8bf1-9f55904d9fd9.png)
+* Do a whitespace change to each file in the subfolder
+* Commit, push and wait
+* Looks good again:
+![image](https://user-images.githubusercontent.com/404432/119729937-7d71e780-be75-11eb-8512-151856cb7079.png)
+
+
+
+
+
