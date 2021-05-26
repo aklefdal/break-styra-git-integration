@@ -1,4 +1,4 @@
-package folder2.subfolder1.v2.edit
+package folder2.subfolder1.v1.edit
 
 default allow = false
 
