@@ -55,7 +55,30 @@ Make it look like this:
 * Looks good again:
 * ![image](https://user-images.githubusercontent.com/404432/119729937-7d71e780-be75-11eb-8512-151856cb7079.png)
 
+## More testing 1
+* Delete the files in folder2
+* Commit, but don't push yet
+* Re-add the files in a new folder structure:
 
+* root
+  * rego
+    * folder2
+      * subfolder1
+        * v1 
+          * rules1.rego
+        * v2
+          * rules2.rego  
 
+* Commit, push and wait
 
+## :boom: Explicit delete, then re-add does not help
+![image](https://user-images.githubusercontent.com/404432/119733782-4baf4f80-be7a-11eb-8fd0-511cd8bbf674.png)
+
+## More testing 2
+
+* Do restructuring of files
+* Commit, but don't push yet
+* Delete affected files in the UI
+* ![image](https://user-images.githubusercontent.com/404432/119734039-ab0d5f80-be7a-11eb-92c8-a18d2b51be5f.png)
+* Push, and wait
 
