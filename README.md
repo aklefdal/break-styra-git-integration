@@ -21,7 +21,7 @@ This is a repo used to demonstrate bugs in Styra DAS Git integration
 
 * Follow instructions in the 'install' tab of the settings.
 * Send POST to your local OPA to the url http://localhost:8181/data/folder1, you should receive a allow = false of some kind unless you specify the right input.
-* See tag "Working-1" in this repo.
+* See branch "Working-1" in this repo.
 
 ## Delete folder1
 
